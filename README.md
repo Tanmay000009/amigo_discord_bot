@@ -4,7 +4,7 @@ Use this link for adding the bot to your server
 
 
 
-# how to make your own bot
+# How to make your own bot
 You can create a new developer profile, and a new develop app on Discord Developer Portal. Get your API key to use form tenor's developer site.
 Create a new repl.it repl, create files with same name, as given here. In .env, replace the TOKEN, with your token. Run the repl, your discord bot is ready.
 
