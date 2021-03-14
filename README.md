@@ -1,6 +1,7 @@
 # amigo_discord_bot
 https://discord.com/api/oauth2/authorize?client_id=820640472745115678&permissions=2148002880&scope=bot
-Use this link for adding the bot to your server
+Use this link for adding the bot to your server, currently only for judges as we are hosting it on a repl.it server,
+and it'll crash if there are too many users so please be considerate.
 
 # Features
 Our bot currently has 2 features. 
