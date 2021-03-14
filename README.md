@@ -1,5 +1,5 @@
 # amigo_discord_bot
-https://discord.com/api/oauth2/authorize?client_id=820617388398870528&permissions=2148006976&scope=bot
+https://discord.com/api/oauth2/authorize?client_id=820640472745115678&permissions=2148002880&scope=bot
 Use this link for adding the bot to your server
 
 # Features
