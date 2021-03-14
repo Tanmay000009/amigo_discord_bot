@@ -36,13 +36,11 @@ def sentiment_analyzer_scores(text):
 async def on_ready():
     print(f"We have logged in as {client.user}")
 
-
 @client.event
 async def on_message(message):
   if message.author == client.user:
     return
   msg = message.content
-
   if msg.startswith('$gif'):
     com = msg
     com = com[:20]
@@ -50,8 +48,7 @@ async def on_message(message):
     com = com.replace(" ","")
     print(com)
     quote = get_quote(com)
-    await message.channel.send(quote)
-    
+    await message.channel.send(quote) 
   sentiment = sentiment_analyzer_scores(msg)
   await message.channel.send('The sentiment of your text is ' + str(sentiment))
 
