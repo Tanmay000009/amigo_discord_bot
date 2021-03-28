@@ -10,7 +10,7 @@ Our bot currently has 2 features.
 
 # What next?
 We will add Toxic chat classifier option to the bot, as nowadays hackathons means discord. Also we are planning to use spotify API and make our both sing aswell. Also, using
-NLP we plan to make a model, which will suggest spotify playlist according to users mood.
+NLP we plan to make a model, which will suggest spotify playlist according to users mood
 
 # How to make your own bot
 You can create a new developer profile, and a new develop app on Discord Developer Portal. Get your API key to use form tenor's developer site.
