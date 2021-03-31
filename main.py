@@ -4,7 +4,7 @@ import requests
 import json
 import random
 from dotenv import load_dotenv
-import os
+import os 
 from keep_alive import keep_alive
 load_dotenv()
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer  
