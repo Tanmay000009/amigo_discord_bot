@@ -3,7 +3,7 @@ https://discord.com/api/oauth2/authorize?client_id=820640472745115678&permission
 Use this link for adding the bot to your server, currently only for judges as we are hosting it on a repl.it server,
 and it'll crash if there are too many users so please be considerate.
 
-# Features
+# Features 
 Our bot currently has 2 features. 
 1) Using "$gif", and typing any gif, bot will send a relevent gif in the chat.
 2) Also our bot does sentiment analysis of chat.
